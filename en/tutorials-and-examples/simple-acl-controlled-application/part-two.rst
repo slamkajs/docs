@@ -15,7 +15,7 @@ be downloaded in `The GitHub Downloads page <https://github.com/markstory/acl_ex
 We're going to briefly describe how to use it to generate all our ACO's
 
 First grab a copy of the plugin and unzipped or clone it using git into
-`app/Plugin/AclExtras`. Then activate the plugin in your `app/Config/boostrap.php`
+`app/Plugin/AclExtras`. Then activate the plugin in your `app/Config/bootstrap.php`
 file as shown below::
 
     //app/Config/boostrap.php
